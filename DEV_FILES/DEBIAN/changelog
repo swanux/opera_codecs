@@ -1,5 +1,6 @@
-opera-codecs (0.50.1-1) bionic; urgency=medium
+opera-codecs (0.52.2-1) bionic; urgency=medium
 
-  * Opera codecs initial release
+  * Updated Widevine to 4.10.2209.0
+  * Updated ffmpeg to 0.52.2
 
- -- Dániel Kolozsi <dani@kolozsi.net>  Sun, 4 Oct 2020 10:15:02 +0200
+ -- Dániel Kolozsi <dani@kolozsi.net>  Sat, 29 May 2021 10:05:02 +0200

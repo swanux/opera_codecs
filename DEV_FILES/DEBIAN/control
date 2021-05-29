@@ -3,11 +3,11 @@ Section: admin
 Priority: optional
 Maintainer: Dániel Kolozsi <dani@kolozsi.net>
 Build-Depends: debhelper (>= 11)
-Standards-Version: 0.50.1-1
-Version: 0.50.1-1
+Standards-Version: 0.52.2-1
+Version: 0.52.2-1
 Package: opera-codecs
 Architecture: amd64
 Depends: opera-stable
-Homepage: <https://github.com/iteufel/nwjs-ffmpeg-prebuilt>
+Homepage: <https://github.com/swanux/opera_codecs>
 Description: Opera codecs
  This package contains extra codecs for opera browser on Linux
