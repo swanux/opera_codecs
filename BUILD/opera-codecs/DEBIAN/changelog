@@ -1,6 +1,6 @@
-opera-codecs (0.55.0-1) focal; urgency=medium
+opera-codecs (0.55.1-1) focal; urgency=medium
 
   * Updated Widevine to 4.10.2209.0
-  * Updated ffmpeg to 0.55.0
+  * Updated ffmpeg to opera-beta-ffmpeg-codecs-94.0.4606.41
 
- -- Dániel Kolozsi <dani@kolozsi.net>  Sat, 27 Sep 2021 10:05:02 +0200
+ -- Dániel Kolozsi <dani@kolozsi.net>  Sat, 26 Sep 2021 10:05:02 +0200
