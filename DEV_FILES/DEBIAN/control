@@ -3,8 +3,8 @@ Section: admin
 Priority: optional
 Maintainer: Dániel Kolozsi <dani@kolozsi.net>
 Build-Depends: debhelper (>= 11)
-Standards-Version: 0.57.1-1
-Version: 0.57.1-1
+Standards-Version: 0.58.1-1
+Version: 0.58.1-1
 Package: opera-codecs
 Architecture: amd64
 Depends: opera-stable
