@@ -3,7 +3,7 @@
   "update_url": "https://clients2.google.com/service/update2/crx",
   "name": "WidevineCdm",
   "description": "Widevine Content Decryption Module",
-  "version": "4.10.2449.0",
+  "version": "4.10.2557.0",
   "minimum_chrome_version": "68.0.3430.0",
   "x-cdm-module-versions": "4",
   "x-cdm-interface-versions": "10",
@@ -15,18 +15,18 @@
     "cbcs"
   ],
   "icons": {
-    "128": "imgs/icon-128x128.png",
-    "16": "imgs/icon-128x128.png"
+    "16": "imgs/icon-128x128.png",
+    "128": "imgs/icon-128x128.png"
   },
   "platforms": [
     {
-      "arch": "x64",
       "os": "linux",
+      "arch": "x64",
       "sub_package_path": "_platform_specific/linux_x64/"
     },
     {
-      "arch": "arm64",
       "os": "linux",
+      "arch": "arm64",
       "sub_package_path": "_platform_specific/linux_arm64/"
     }
   ]

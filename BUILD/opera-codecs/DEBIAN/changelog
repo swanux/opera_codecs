@@ -1,6 +1,6 @@
-opera-codecs (0.58.1-1) focal; urgency=medium
+opera-codecs (0.59.1-1) jammy; urgency=medium
 
-  * Updated ffmpeg from 98.0.4758.10 to 103.0.5060.53
-  * Updated Widevine from 4.10.2391.0 to 4.10.2449.0
+  * Updated ffmpeg from 103.0.5060.53 to 111.0.5563.41
+  * Updated Widevine from 4.10.2449.0 to 4.10.2557.0
 
- -- Dániel Kolozsi <dani@kolozsi.net>  Sun, 10 Jul 2022 16:10:02 +0200
+ -- Dániel Kolozsi <dani@kolozsi.net>  Sun, 02 Apr 2023 14:50:02 +0200
